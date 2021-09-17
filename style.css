@@ -49,6 +49,12 @@ main h2 {
     padding: 3px;
 }
 
+.jonas-style {
+    color: yellow;
+    background-color: blue;
+    padding: 3px;
+ }
+
 .Elijah-Schrock-style {
     color: rgb(105, 219, 82);
     background-color: black;
@@ -84,6 +90,4 @@ main h2 {
     background-color: #6A8EAE;
     padding: 3px;
 }
-
-
 
