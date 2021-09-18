@@ -1,2 +1,2 @@
 # Class Roster Project
-Contributed by Dwight Chazell
+Contributed to by Dwight Chazell
