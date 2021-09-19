@@ -1,2 +1,12 @@
 # Class Roster Project
+
+Contributed to by Marcos Casillas
+Contributed to by Albert Manson III
+Contributed to by Wyatt Clay Hart
+###### Contributed to by Dio Castillo
+Contributed to by Chris Foster
+Contributed to by Elijah Schrock
+Contributed to by Anthony Babka
+Contributed to by Jessica Varsallona
+*Contributed to by Jonas Marques*
 Contributed to by Dwight Chazell
